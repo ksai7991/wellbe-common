@@ -1,0 +1,1 @@
+CREATE SCHEMA IF NOT EXISTS wellbe_common AUTHORIZATION  wellbe;

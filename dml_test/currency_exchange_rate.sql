@@ -1,0 +1,5 @@
+TRUNCATE TABLE wellbe_common.currency_exchange_rate;
+INSERT INTO wellbe_common.currency_exchange_rate(base_currency_cd, target_currency_cd, paire_name, rate, create_datetime, create_function, update_datetime, update_function) VALUES(1, 2, 'USDJPY', '141.84', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.currency_exchange_rate(base_currency_cd, target_currency_cd, paire_name, rate, create_datetime, create_function, update_datetime, update_function) VALUES(1, 3, 'USDVND', '23530', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.currency_exchange_rate(base_currency_cd, target_currency_cd, paire_name, rate, create_datetime, create_function, update_datetime, update_function) VALUES(2, 1, 'JPYUSD', '0.0071', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.currency_exchange_rate(base_currency_cd, target_currency_cd, paire_name, rate, create_datetime, create_function, update_datetime, update_function) VALUES(2, 3, 'JPYVND', '165.9', '2001/1/1 0:00', 'DML', '', '');

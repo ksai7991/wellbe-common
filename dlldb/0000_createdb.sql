@@ -1,0 +1,1 @@
+CREATE DATABASE wellbe_common OWNER wellbe;

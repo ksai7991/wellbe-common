@@ -1,0 +1,10 @@
+TRUNCATE TABLE wellbe_common.c_order_type;
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 1, 'Wellbe salon booking', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 2, 'Wellbeサロン予約', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 3, 'Đặt lịch thẩm mỹ viện Wellbe', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 4, 'Wellbe沙龙预约', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 5, 'Wellbe沙龍預約', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 6, 'Wellbe살롱 예약', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 7, 'การจองร้านเสริมสวย Wellbe', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 8, 'Tempahan salon Wellbe', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_order_type(order_type_cd, language_cd, order_type_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 9, 'Pemesanan salon Wellbe', '2001/1/1 0:00', 'DML', '', '');

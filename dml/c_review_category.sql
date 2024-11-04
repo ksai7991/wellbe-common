@@ -1,0 +1,10 @@
+TRUNCATE TABLE wellbe_common.c_review_category;
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 1, 'General review only', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 2, '総評のみ', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 3, 'Chỉ đánh giá chung', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 4, '仅限一般审查', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 5, '仅限一般审查', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 6, '일반 리뷰만', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 7, 'รีวิวทั่วไปเท่านั้น', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 8, 'Semakan am sahaja', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_review_category(review_category_cd, language_cd, review_category_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 9, 'Ulasan umum saja', '2001/1/1 0:00', 'DML', '', '');

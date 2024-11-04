@@ -1,0 +1,10 @@
+TRUNCATE TABLE wellbe_common.c_payout_method;
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 1, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 2, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 3, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 4, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 5, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 6, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 7, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 8, 'paypal', '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_payout_method(payout_method_cd, language_cd, payout_method_name, create_datetime, create_function, update_datetime, update_function) VALUES(1, 9, 'paypal', '2001/1/1 0:00', 'DML', '', '');

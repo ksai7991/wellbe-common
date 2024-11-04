@@ -1,0 +1,10 @@
+TRUNCATE TABLE wellbe_common.c_language;
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(1, 'en', 'English', 1, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(2, 'ja', '日本語', 2, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(3, 'vi', 'Tiếng Việt', 3, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(4, 'zh', '简体中文', 4, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(5, 'zh-TW', '繁體中文', 5, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(6, 'ko', '한국어', 6, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(7, 'th', 'แบบไทย', 7, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(8, 'ms', 'Melayu', 8, '2001/1/1 0:00', 'DML', '', '');
+INSERT INTO wellbe_common.c_language(language_cd, language_char_cd, language_name, sort_number, create_datetime, create_function, update_datetime, update_function) VALUES(9, 'id', 'Bahasa Indonesia', 9, '2001/1/1 0:00', 'DML', '', '');
